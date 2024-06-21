@@ -19,7 +19,7 @@
 
 
 
-- [new one ](https://explore.skillbuilder.aws/learn/course/156/play/80055/job-roles-in-the-cloud;lp=82) &&
+- [new one ](https://explore.skillbuilder.aws/learn/course/156/play/80055/job-roles-in-the-cloud;lp=82) && [ this](https://explore.skillbuilder.aws/learn/course/134/play/99519/aws-cloud-practitioner-essentials)
 
 .
 - [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/PJXQSZBPKVAJ)
