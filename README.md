@@ -16,6 +16,11 @@
 
 ![image](https://github.com/nancyalaswad90/Cyber-security-Work/assets/36210723/e2a3a476-1d23-411e-8623-e43d0ea4b016)
 
+
+
+
+- [new one ](https://explore.skillbuilder.aws/learn/course/156/play/80055/job-roles-in-the-cloud;lp=82) &&
+
 .
 - [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/PJXQSZBPKVAJ)
 
