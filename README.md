@@ -19,6 +19,22 @@
 
 
 
+.
+
+
+
+
+
+
+- [AWS Cloud Practitioner Essentials  : ID: E-N0539V](https://explore.skillbuilder.aws/learn/course/134/play/66483/what-to-do-next)
+
+
+![image](https://github.com/nancyalaswad90/Cyber-security-Work/assets/36210723/5c30c279-2590-4efe-9483-4cb1414f0daf)
+
+
+.
+ 
+
 - [new one ](https://explore.skillbuilder.aws/learn/course/156/play/80055/job-roles-in-the-cloud;lp=82) && [ this](https://explore.skillbuilder.aws/learn/course/134/play/99519/aws-cloud-practitioner-essentials)
 
 .
