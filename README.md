@@ -21,7 +21,12 @@
 
 .
 
+- [Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/H6WVVQ7DDU7H)
 
+
+![image](https://github.com/nancyalaswad90/Cyber-security-Work/assets/36210723/a759003e-dcb0-4af4-96f0-a7bd3ec7b18a)
+
+.
 
 
 
